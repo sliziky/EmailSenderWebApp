@@ -5,7 +5,8 @@
     ViewData[ "Title" ] = "Contacts";
 }
 
-
+<!DOCTYPE html>
+<html>
 <h1>Contacts</h1>
 
 
@@ -50,9 +51,9 @@
 
 <script type="text/javascript">
     function SendEmail() {
- 
+
         var grid = document.getElementById("personTable");
-       
+
         var checkBoxes = grid.getElementsByTagName("INPUT");
         var checkedMails = new Array();
 
@@ -62,8 +63,8 @@
                 checkedMails.push(row.cells[3].innerHTML);
             }
         }
-        var mail = checkedMails.join(";");
-        location.href = "mailto:" + mail;
+        var mail = "mailto:" + checkedMails.join(";");
+        window.open(mail);
     }
 </script>
-
+</html>

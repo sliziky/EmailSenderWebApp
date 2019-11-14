@@ -18,7 +18,6 @@ C:\Users\Peter\Source\Repos\EmailSender\EmailSender\obj\Debug\netcoreapp3.0\Razo
 C:\Users\Peter\Source\Repos\EmailSender\EmailSender\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\Peter\Source\Repos\EmailSender\EmailSender\obj\Debug\netcoreapp3.0\EmailSender.RazorTargetAssemblyInfo.cache
 C:\Users\Peter\Source\Repos\EmailSender\EmailSender\obj\Debug\netcoreapp3.0\EmailSender.RazorTargetAssemblyInfo.cs
-C:\Users\Peter\Source\Repos\EmailSender\EmailSender\obj\Debug\netcoreapp3.0\EmailSender.csprojAssemblyReference.cache
 C:\Users\Peter\Source\Repos\EmailSender\EmailSender\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Peter\Source\Repos\EmailSender\EmailSender\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Peter\Source\Repos\EmailSender\EmailSender\obj\Debug\netcoreapp3.0\EmailSender.csproj.CopyComplete
