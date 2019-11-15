@@ -20,7 +20,14 @@
 ```Now listening on: https://localhost:5001```
 7. Paste that URL into browser
 
+## Usage
+
+- You should see this page after running
 ![Screenshot](EmailSender/docs/images/indexPage.jpg)
+
+- After clicking ```Submit``` button
+![Screenshot](EmailSender/docs/images/outlook.jpg)
+
 ## Requirements
 - ```.NET CORE 3.0```
 - Check ```Default app settings -> Email``` is set to ```Outlook```
