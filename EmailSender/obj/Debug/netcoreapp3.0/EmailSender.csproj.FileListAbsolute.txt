@@ -123,3 +123,4 @@ C:\Users\Peter\Source\Repos\EmailSender\EmailSender\bin\Debug\netcoreapp3.0\Micr
 C:\Users\Peter\Source\Repos\EmailSender\EmailSender\bin\Debug\netcoreapp3.0\Microsoft.Graph.Core.dll
 C:\Users\Peter\Source\Repos\EmailSender\EmailSender\obj\Debug\netcoreapp3.0\EmailSender.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Peter\Source\Repos\EmailSender\EmailSender\obj\Debug\netcoreapp3.0\EmailSender.Views.pdb
+C:\Users\Peter\Source\Repos\EmailSender\EmailSender\obj\Debug\netcoreapp3.0\EmailSender.csprojAssemblyReference.cache

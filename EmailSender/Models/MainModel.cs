@@ -8,15 +8,15 @@ namespace EmailSender.Models
 {
     public class MainModel : PageModel
     {
-
-        [BindProperty]
-        public List<int> AreChecked { get; set; }
-        private readonly EmailSender.Data.PersonDbContext _context;
-        public MainModel( EmailSender.Data.PersonDbContext context ) {
+        private readonly Data.PersonDbContext _context;
+        public MainModel( Data.PersonDbContext context ) {
             _context = context;
         }
 
-        public IList<Person> Person { get; set; }
+        /// <summary>
+        /// Represents a table of Persons
+        /// </summary>
+        public IList< Person > Person { get; set; }
 
         public async Task OnGetAsync() {
             Person = await _context.Person.ToListAsync();

@@ -3,9 +3,9 @@
 namespace EmailSender.Data
 {
     public class PersonDbContext : DbContext {
-        public PersonDbContext( DbContextOptions<PersonDbContext> options )
+        public PersonDbContext( DbContextOptions< PersonDbContext > options )
             : base( options ) {
         }
-        public DbSet<EmailSender.Models.Person> Person { get; set; }
+        public DbSet< Models.Person > Person { get; set; }
     }
 }
