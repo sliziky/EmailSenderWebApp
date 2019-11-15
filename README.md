@@ -28,4 +28,6 @@
 ## Known issues
 - App should open Outlook app, not default Email client
 - If >20 mails are chosen, App should open ```amountOfChosenEmails // 20 + 1 ``` windows
+- Database of people should be updated
+- Column ```Address``` should be more specific
 
